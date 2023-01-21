@@ -1,0 +1,6 @@
+[submodule "livox_camera_calib"]
+	path = livox_camera_calib
+	url = https://github.com/rosblox/livox_camera_calib.git
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = https://ceres-solver.googlesource.com/ceres-solver
